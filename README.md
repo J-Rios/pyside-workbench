@@ -4,8 +4,12 @@ A simple pyside6 (QT-6) development base project skelleton for vscode.
 
 ## Documentation
 
-Python QT Getting Starter Guides can be found here:
+Python QT Documentation:  
 [https://doc.qt.io/qtforpython/](https://doc.qt.io/qtforpython/)
+
+QT Documentation:  
+[https://doc.qt.io/](https://doc.qt.io/)
+
 
 ## Requeriments
 
@@ -15,7 +19,7 @@ For Linux users in a Debian based system:
 
 ```bash
 sudo apt-get update
-sudo apt-get install libopengl0
+sudo apt-get install libopengl0 libegl1
 sudo apt-get install freeglut3 freeglut3-dev
 sudo apt-get install python3
 sudo apt-get install python3-pip
