@@ -1,2 +1,3 @@
-# pyside-workbench
-A simple pyside6 (QT-6) development project skelleton for vscode
+# vscode-skelly-pyside
+
+A simple pyside6 (QT-6) development base project skelleton for vscode.
